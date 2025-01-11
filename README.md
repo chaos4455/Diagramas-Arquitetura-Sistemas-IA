@@ -1,4 +1,4 @@
-# Arquiteturas de IA de Alta Performance: Do Micro ao Macro 🚀
+# Portfólio pessoal de arquitetura de sistemas de IA e LLMs🚀
 
 **Meu portfólio dedicado à criação de sistemas de IA robustos, escaláveis e inteligentes.**
 
